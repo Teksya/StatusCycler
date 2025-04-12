@@ -1,0 +1,21 @@
+{
+    "speed_rotator": 15,
+    "clear_enabled": true,
+    "clear_interval": 15,
+    "sequences": [
+        {
+            "emoji": "👋",
+            "text": "Hello World!"
+        },
+        {
+            "emoji": "💻",
+            "text": "Coding..."
+        },
+        {
+            "emoji": "🎮",
+            "text": "Gaming"
+        }
+    ],
+    "status_sequence": ["online", "idle", "dnd"],
+    "use_status_sequence": true
+}
